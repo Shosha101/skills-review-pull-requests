@@ -22,7 +22,7 @@ _Collaborate and work together on GitHub._
 
 ## Step 3: Leave a review
 
-_You assigned yourself! :tada:_
+_You assigned yourself!
 
 Pull request reviews ensure quality and maintain momentum of changes to your project.
 
